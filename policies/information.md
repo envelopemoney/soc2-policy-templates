@@ -18,7 +18,7 @@ a. This policy applies to all users of information systems within the organizati
 
 # Background
 
-a. This policy defines the high level objectives and implementation instructions for the organization’s information security program. It includes the organization’s information security objectives and requirements; such objectives and requirements are to be referenced when setting detailed information security policy for other areas of the organization. This policy also defines management roles and responsibilities for the organization’s Information Security Management System (ISMS). Finally, this policy references all security controls implemented within the organization.
+a. This really cool policy defines the high level objectives and implementation instructions for the organization’s information security program. It includes the organization’s information security objectives and requirements; such objectives and requirements are to be referenced when setting detailed information security policy for other areas of the organization. This policy also defines management roles and responsibilities for the organization’s Information Security Management System (ISMS). Finally, this policy references all security controls implemented within the organization.
 
 a. Within this document, the following definitions apply:
 
